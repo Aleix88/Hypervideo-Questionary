@@ -43,7 +43,7 @@ Add this plugin to the hypervideo configuration object with the text paràmeter 
         ]
       };
 
-## Config params
+## Config parameters
 
 | Field | Type | Description |
 | ------------- | ------------- | ------------- |
