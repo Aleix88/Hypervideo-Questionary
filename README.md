@@ -1,4 +1,4 @@
-# Hypervideo-SimpleLabel
+# Hypervideo-Card
 Questionary plugin for [Hypervideos.js](https://github.com/Aleix88/Hypervideos)
 <div>
     <img src="https://github.com/Aleix88/Hypervideo-Questionary/blob/main/questionary.png?raw=true">
